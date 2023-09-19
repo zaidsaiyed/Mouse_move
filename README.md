@@ -14,5 +14,5 @@ A Python script that uses the `pyautogui` and `keyboard` libraries to randomly m
 5.  To stop the script, press and hold the "ctrl+alt+shift+z" key combination for 1-2 seconds
 
 ## Note
--   The screen resolution is set to 1920x1080, but it can be changed in the code.
+-   The screen resolution is set to 1920 x 1080, but it can be changed in the code.
 -   The script generates random X and Y coordinates and moves the mouse cursor to that position with a random duration of time.
